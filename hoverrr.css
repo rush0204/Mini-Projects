@@ -1,0 +1,22 @@
+.ff 
+{
+    display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+h4
+{
+    display: inline;
+}
+.score 
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.head
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

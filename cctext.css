@@ -1,0 +1,23 @@
+H1{
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: 12px;
+    font-size: 34px;
+    font-family: Futura, Segoe UI;
+}
+p{
+    text-align: justify;
+    line-height: 1.5;
+}
+a{
+    text-decoration: none;
+} 
+button{
+    background-color: bisque;
+}
+#login{
+    background-color: blueviolet;
+} 
+*::selection{
+background-color: rgb(187, 166, 214);
+}

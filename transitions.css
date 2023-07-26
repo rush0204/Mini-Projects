@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    background-image: url(https://images.wallpapersden.com/image/download/monkey-d-luffy-manga_bGlsZ26UmZqaraWkpJRmbmdlrWZlbWU.jpg);
+    background-size: contain;
+} 
+.a{
+    background-color: #88A09E ;
+    color: rgb(17, 11, 3);
+    width: 250px;
+    height: 30px;
+    margin: 3% auto;
+    text-align: center;
+    padding: 0.5%;
+    transition: 3s;
+    box-shadow: -5px -5px teal;
+
+
+}
+.a:hover{
+    transform: rotate(90deg);
+    box-shadow: -5px -5px teal;
+
+}
+.b{
+    padding: 120 50;
+    background-color: #704C5E ;
+    border: solid 2 ;
+    width: 250px;
+    height: 30px;
+    margin: 3% auto;
+    text-align: center;
+    padding: 0.5%;
+    box-shadow: -5px -5px teal;
+}
+.c{
+    padding: 20 50;
+    background-color: #B88C9E ;
+    border: solid 2 ;
+    width: 250px;
+    height: 30px;
+    margin: 3% auto;
+    text-align: center;
+    padding: 0.5%;
+    box-shadow: -5px -5px teal;
+}
+.d{
+    padding: 20 50;
+    background-color: #F1C8DB ;
+    border: solid 2 ;
+    width: 250px;
+    height: 30px;
+    margin: 3% auto;
+    text-align: center;
+    padding: 0.5%;
+    box-shadow: -5px -5px 3px 2px teal;
+   
+}
+.d:hover{
+    /* transform: scale(6); */
+    transform:translateX(16px);
+}
+.a:hover{
+    transform: skew(10deg, 14deg);
+}
+footer{
+    margin-top: auto;
+    margin-bottom: 0;
+    padding: 100px;
+    width: auto;
+    height: 100em;
+    background-color: aqua;
+}

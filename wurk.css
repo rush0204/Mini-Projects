@@ -1,0 +1,13 @@
+body{
+    background-color: #DFE0E2;
+    margin: 0;
+}
+img{
+    width: 15rem;
+    height: 15rem;
+    margin: 5.33rem;
+}
+h1{
+    text-align: center;
+    text-shadow: 3px 1px 2px teal;
+}
